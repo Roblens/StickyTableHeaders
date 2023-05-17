@@ -1,6 +1,7 @@
 StickyTableHeaders
 ==================
 Forked repo from the unmaintained original repo: https://github.com/jmosbech/StickyTableHeaders
+
 Merged bug fixes and improvements from [PR #149](https://github.com/jmosbech/StickyTableHeaders/pull/149/)
 
 ## CDN Hosting
