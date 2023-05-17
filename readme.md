@@ -5,9 +5,9 @@ Merged bug fixes and improvements from [PR #149](https://github.com/jmosbech/Sti
 
 ## CDN Hosting
 ```
-https://cdn.jsdelivr.net/gh/Roblens/StickyTableHeaders@master/js/jquery.stickytableheaders.js
+https://cdn.jsdelivr.net/gh/Roblens/StickyTableHeaders/js/jquery.stickytableheaders.js
 
-https://cdn.jsdelivr.net/gh/Roblens/StickyTableHeaders@master/js/jquery.stickytableheaders.min.js
+https://cdn.jsdelivr.net/gh/Roblens/StickyTableHeaders/js/jquery.stickytableheaders.min.js
 ```
 
 ---
